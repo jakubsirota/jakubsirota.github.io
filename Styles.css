@@ -1,0 +1,60 @@
+H1 {color: midnightblue;
+    font-size: 230%;
+    font-weight: bold;
+    text-align: center;
+    margin: 25px;}
+
+H2 {color: darkblue;
+    font-size: 150%;
+    text-align: center;
+    margin: 25px;}
+
+Body{color: black;
+    font-size: 14pt;
+    font-family: 'Noto Serif SC', serif;
+    background: lavender;
+}
+
+p
+{text-align: center;
+    margin:25px;}
+
+.article
+{
+    font-size: 14pt;
+width: auto;
+margin: auto;
+
+}
+
+.pozadi1
+{margin: auto;
+    width: 50%;
+    border: 5px solid darkblue;
+    padding: 10px;
+    background: #d8e1ff}
+
+nav a
+{display: inline-block;
+    text-align: center;
+margin: 10px;
+background: white;
+padding: 3px;
+border: 2px solid black;
+    text-decoration: none;
+}
+
+nav nav
+
+{text-align: center}
+
+.Uvodka
+{text-align: center;}
+
+.article.ab
+{text-align: center}
+
+.ZarovnaniFotek
+{text-align: center;
+margin-top: 10px;
+}
